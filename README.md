@@ -5,6 +5,11 @@ Trabajo principalmente con:
 
 ## 🛠️ Tecnologías y Herramientas
 
+- **Frontend:** React, Next.js, JavaScript, TypeScript
+- **Backend:** Node.js, WebSockets, Redis
+- **Bases de Datos:** MongoDB, SQL
+- **Infraestructura:** AWS, DigitalOcean
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -17,12 +22,6 @@ Trabajo principalmente con:
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
 </p>
-
-
-- **Frontend:** React, Next.js, JavaScript, TypeScript
-- **Backend:** Node.js, WebSockets, Redis
-- **Bases de Datos:** MongoDB, SQL
-- **Infraestructura:** AWS, DigitalOcean
 
 💡 Me apasiona crear soluciones eficientes, optimizar arquitecturas y mantenerme siempre aprendiendo nuevas tecnologías.
 
