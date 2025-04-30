@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy un Desarrollador Fullstack
 
-<!--
-**MoisesML/MoisesML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Desarrollador Fullstack** con **4 años de experiencia** construyendo aplicaciones web modernas, rápidas y escalables.  
+Trabajo principalmente con:
 
-Here are some ideas to get you started:
+- **Frontend:** React, Next.js, JavaScript, TypeScript
+- **Backend:** Node.js, WebSockets, Redis
+- **Bases de Datos:** MongoDB, SQL
+- **Infraestructura:** AWS, DigitalOcean
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Me apasiona crear soluciones eficientes, optimizar arquitecturas y mantenerme siempre aprendiendo nuevas tecnologías.
+
+🔗 Actualmente trabajando en proyectos que combinan **desarrollo web**, **sistemas en tiempo real** y **cloud computing**.
+
+---
